@@ -7,7 +7,7 @@ from beets import ui
 from beets.autotag import hooks
 from beets.plugins import BeetsPlugin
 from beets.ui.commands import PromptChoice
-from beets.mediafile import TYPES
+from mediafile import TYPES
 from beets.ui.commands import disambig_string
 import musicbrainzngs
 import os.path
